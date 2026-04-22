@@ -1,0 +1,21 @@
+{
+  "name": "env-cli-switcher",
+  "version": "0.1.0",
+  "description": "IMEL-style terminal CLI for switching conda environments and CUDA versions.",
+  "bin": {
+    "env-cli": "./bin/env-cli.js"
+  },
+  "scripts": {
+    "check": "node --check bin/env-cli.js"
+  },
+  "keywords": [
+    "cli",
+    "conda",
+    "cuda",
+    "environment"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  }
+}
