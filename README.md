@@ -1,4 +1,4 @@
-# env-cli-switcher
+# env-cli
 
 ENV_CLI 스타일의 터미널 CLI입니다. `/conda`, `/cuda` 같은 명령어로 conda env와 CUDA 버전을 화살표 메뉴에서 선택할 수 있습니다.
 
